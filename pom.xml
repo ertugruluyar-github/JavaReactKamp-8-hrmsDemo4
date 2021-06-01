@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.kodlamaio</groupId>
-	<artifactId>hrmsDemo3</artifactId>
+	<artifactId>hrmsDemo4</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>hrmsDemo3</name>
+	<name>hrmsDemo4</name>
 	<description>Demo project for HRMS</description>
 	<properties>
 		<java.version>15</java.version>
